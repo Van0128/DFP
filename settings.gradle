@@ -1,0 +1,3 @@
+include ':app',
+        ':libraryprebid'
+rootProject.name='TestLibraryAds'
